@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First post!
+title: Google Tag Manager: An introduction
 image: /img/hello\_world.jpeg
 ---
 
@@ -12,7 +12,7 @@ Now imagine for a moment that you could do this all by yourself as easy as copyi
 
 ![][image-1]
 
-** ##So what did you say?
+## So what did you say?
 The answer is Google Tagmanager. It’s is a free Tagmanagement solution from Google (no pun intended) that allows you to implement code fast on those parts of your website that you want. This can be as simple as implementing Google analytics to entire javascript. And all this through a much simpler interface than you would when actually hard coding stuff on your website.
 
 So what is it?
@@ -24,14 +24,14 @@ So what is it?
 Already interested?
 ![][image-2]
 
-** ##Setting up Google Tagmanager
+## Setting up Google Tagmanager
 Getting started:
 1. Create an account or login at tagmanager.google.com
 2. Create a new container. This will be the part of your account covering your domain. 
 3. You will receive a code snippet from the grandmasters at Google that should be implement on your site. If you’re using Wordpress, download and install [this plugin][1] and insert your account ID. Otherwise, add the custom HTML to your site’s header and body. This will be the last time you will ever have to take a look at your code. Unless you go to the dark side and start to like coding. But you’re the chosen one, so please don’t. 
 4. Take an Ethiopian soy-latte coffee with an extra shot of maple syrup. You’re a Google Tagmanager Padawan now.
 
-** ##How does it work?
+## How does it work?
 Google Tagmanager consists of a few building blocks:
 
 ### Tags
@@ -51,37 +51,31 @@ Data stored in your browser. This is where Sith Master Mark Zuckerberg hides his
 
 
 
-** ##Inserting your very first code snippet**
-Now that you’ve installed Google Tag Manager on your site, you can use it to insert your first code snippet. I will use Google Analytics as you’ll probably need this one anyway and Google has simplified this as much as possible for you.
+## Inserting your very first code snippet** Now that you’ve installed Google Tag Manager on your site, you can use it to insert your first code snippet. I will use Google Analytics as you’ll probably need this one anyway and Google has simplified this as much as possible for you.
 
 **Go to tagmanager.google.com and click on “Add a new tag”**
-![]()
+![][image-3]
 
 **Click on “Tag configuration”**
-![]()
+![][image-4]
 
 **Choose “Universal Analytics”**
-![]()
+![][image-5]
 
 **Click on “Triggering” and choose “All Pages”**
-![]()
+![][image-6]
 
 **Hit “Save”**
 
 ** ##Next steps
-
-# [https://www.upbuild.io/gtm/][3]
-
-
-Really this is just the tip of the iceberg of Tagmanager’s applications. For more background, check these resources:
-- [http://ipullrank.com/google-tag-manager/an-introduction-to-google-tag-manager/][4]
-- [https://www.simoahava.com/analytics/awesome-google-tag-manager-resources/#gref][5]
+You are now ready to begin your epic journey!
 
 [1]:	https://wordpress.org/plugins/google-tag-manager/
 [2]:	https://chrome.google.com/webstore/detail/tag-assistant-by-google/kejbdjndbnbjgmefkgdddjlbokphdefk
-[3]:	https://www.upbuild.io/gtm/
-[4]:	http://ipullrank.com/google-tag-manager/an-introduction-to-google-tag-manager/ "Introduction to Google Tagmanager's terms"
-[5]:	https://www.simoahava.com/analytics/awesome-google-tag-manager-resources/#gref "Simo Ahava: the GTM master. Seriously"
 
 [image-1]:	https://media2.giphy.com/media/12NUbkX6p4xOO4/giphy.gif?cid=e1bb72ff5b50eb7f506741456fa304fa
 [image-2]:	https://media3.giphy.com/media/MP1kygLQzjCve/giphy.gif?cid=e1bb72ff5b50edd26e65447963d3cab5
+[image-3]:	/img/skitch4.png
+[image-4]:	/img/skitch3.png
+[image-5]:	/img/skitch2.png
+[image-6]:	/img/skitch1.png
